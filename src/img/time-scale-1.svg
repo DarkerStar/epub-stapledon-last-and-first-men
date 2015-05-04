@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="700" height="1000" viewBox="0 0 700 1000">
+  <defs>
+  </defs>
+  
+  <g transform="translate(50,50)">
+    <g stroke="black" stroke-linecap="square" stroke-width="5" transform="translate(150,0)">
+      <line y2="800"/>
+      
+      <line x1="-20"/>
+      <line x1="-20" y1="100" y2="100"/>
+      <line x1="-20" y1="200" y2="200"/>
+      <line x1="-20" y1="300" y2="300"/>
+      <line x1="-55" y1="400" y2="400"/>
+      <line x1="-20" y1="500" y2="500"/>
+      <line x1="-20" y1="600" y2="600"/>
+      <line x1="-20" y1="700" y2="700"/>
+      <line x1="-20" y1="800" y2="800"/>
+    </g>
+    
+    <g font-family="serif" font-size="12" text-anchor="end" transform="translate(115,4)">
+      <text><tspan>2,000</tspan><tspan x="0" dy="16">years</tspan><tspan x="0" dy="16">ago</tspan></text>
+      <text y="100">1,500</text>
+      <text y="200">1,000</text>
+      <text y="300">500</text>
+      <text x="-30" y="400"><tspan dy="-6" font-size="14">‘Today’</tspan><tspan x="-30" dy="16">2000 <tspan font-size="11">A.D.</tspan></tspan></text>
+      <text y="500">500</text>
+      <text y="600">1,000</text>
+      <text y="700">1,500</text>
+      <text y="800"><tspan>2,000</tspan><tspan x="0" dy="16">years</tspan><tspan x="0" dy="16">hence</tspan></text>
+    </g>
+    
+    <g font-family="serif" font-size="12" transform="translate(160,5)">
+      <text font-variant="small-caps">Jesus Christ</text>
+      <text y="100"><tspan font-size="11">A.D.</tspan> 500</text>
+      <text y="165">Charlemagne</text>
+      <text y="196"><tspan font-size="11">A.D.</tspan> 1000</text>
+      <text y="212">Norman Conquest, 1066</text>
+      <text y="292">America Discovered, 1492</text>
+      <text y="308"><tspan font-size="11">A.D.</tspan> 1500</text>
+      <text y="330">Newton</text>
+      <text y="376" font-variant="small-caps">European War, 1914</text>
+      <text y="392" font-size="11">Anglo–French War</text>
+      <text y="408" font-size="11">Russo–German War</text>
+      <text y="424" font-size="11">Euro–American War</text>
+      <text y="454">Sino–American War</text>
+      <text y="470"><tspan font-weight="bold">First World State</tspan> founded</text>
+      <text y="500"><tspan font-size="11">A.D.</tspan> 2500</text>
+      <text y="600"><tspan font-size="11">A.D.</tspan> 3000</text>
+      <text y="700"><tspan font-size="11">A.D.</tspan> 3500</text>
+      <text y="800"><tspan font-size="11">A.D.</tspan> 4000</text>
+    </g>
+    
+    <g transform="translate(275,725) rotate(-90)">
+      <g stroke="black" stroke-linecap="round" stroke-width="2">
+        <line x1="-115"/>
+        <path d="M 0,0 a 18,18 0 0 0 10,-6 M 0,0 a 18,18 0 0 1 10,6" transform="translate(-115,0)"/>
+      </g>
+      <text y="5" font-family="serif" font-size="14">Americanized World</text>
+    </g>
+    
+    <g font-family="serif" font-size="16" text-anchor="middle" transform="translate(500,150)">
+      <text font-size="24" font-weight="bold"><tspan x="0">Time Scale</tspan><tspan x="0" y="24">1</tspan></text>
+    </g>
+  </g>
+</svg>

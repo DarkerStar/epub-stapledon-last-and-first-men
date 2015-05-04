@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="700" height="1000" viewBox="0 0 700 1000">
+  <defs>
+  </defs>
+  
+  <g transform="translate(50,50)">
+    <g stroke="black" stroke-linecap="square" stroke-width="5" transform="translate(150,0)">
+      <line y2="800"/>
+      
+      <line x1="-20"/>
+      <line x1="-20" y1="100" y2="100"/>
+      <line x1="-20" y1="200" y2="200"/>
+      <line x1="-20" y1="300" y2="300"/>
+      <line x1="-55" y1="400" y2="400"/>
+      <line x1="-20" y1="500" y2="500"/>
+      <line x1="-20" y1="600" y2="600"/>
+      <line x1="-20" y1="700" y2="700"/>
+      <line x1="-20" y1="800" y2="800"/>
+    </g>
+    
+    <g font-family="serif" font-size="12" text-anchor="end" transform="translate(115,4)">
+      <text><tspan>200,000</tspan><tspan x="0" dy="16">years</tspan><tspan x="0" dy="16">ago</tspan></text>
+      <text y="100">150,000</text>
+      <text y="200">100,000</text>
+      <text y="300">50,000</text>
+      <text x="-30" y="400"><tspan dy="-6" font-size="14">‘Today’</tspan><tspan x="-30" dy="16">2000 <tspan font-size="11">A.D.</tspan></tspan></text>
+      <text y="500">50,000</text>
+      <text y="600">100,000</text>
+      <text y="700">150,000</text>
+      <text y="800"><tspan>200,000</tspan><tspan x="0" dy="16">years</tspan><tspan x="0" dy="16">hence</tspan></text>
+    </g>
+    
+    <g font-family="serif" font-size="12" transform="translate(160,5)">
+      <text>Paleolithic Culture well established</text>
+      <text x="15" y="16">‘Heidelberg’ Man</text>
+      <text y="200">Eoanthropus</text>
+      <text y="270"><tspan font-size="14" font-variant="small-caps">Ice Age</tspan> (most recent)</text>
+      <text y="286">Mousterian Culture</text>
+      <text x="15" y="302">‘Neanderthal’ Man</text>
+      <text y="344" font-size="11">Late Paleolithic</text>
+      <text y="360" font-size="11">Neolithic</text>
+      <text y="376" font-size="11">Egyptian Pyramids</text>
+      <text y="392" font-size="11">Jesus Christ</text>
+      <text y="408">Fall of the <tspan font-variant="small-caps" font-weight="bold">First World State</tspan></text>
+      <text y="596">Rise of <tspan font-weight="bold">Patagonia</tspan></text>
+      <text y="612">Fall of Patagonia</text>
+    </g>
+    
+    <g transform="translate(225,510) rotate(-90)">
+      <text y="-10" font-family="serif" font-size="14" text-anchor="middle"><tspan>First Men in</tspan><tspan x="0" dy="20">Eclipse</tspan></text>
+    </g>
+    
+    <g transform="translate(225,810) rotate(-90)">
+      <g stroke="black" stroke-linecap="round" stroke-width="2">
+        <line x1="-35"/>
+        <path d="M 0,0 a 18,18 0 0 0 10,-6 M 0,0 a 18,18 0 0 1 10,6" transform="translate(-35,0)"/>
+      </g>
+      <text y="5" font-family="serif" font-size="14">First Men in Eclipse</text>
+    </g>
+    
+    <g font-family="serif" font-size="16" text-anchor="middle" transform="translate(500,150)">
+      <text font-size="24" font-weight="bold"><tspan x="0">Time Scale</tspan><tspan x="0" dy="24">2</tspan></text>
+      <text y="56"><tspan>One hundred times</tspan><tspan x="0" dy="20">the preceding scale.</tspan></text>
+      <text y="110"><tspan>Doubtless extremely</tspan><tspan x="0" dy="20">inaccurate</tspan></text>
+    </g>
+  </g>
+</svg>

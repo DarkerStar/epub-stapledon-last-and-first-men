@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="700" height="1000" viewBox="0 0 700 1000">
+  <defs>
+    <path id="brace" d="m 0,0 0,2 c 10,0 1,22 8,22 l 0,2 c -7,0 2,22 -8,22 l 0,-2 c 7,0 1,-20 5,-21 -4,-1 2,-21 -5,-21 z"/>
+  </defs>
+  
+  <g transform="translate(50,50)">
+    <g id="main">
+      <g stroke="black" stroke-linecap="square" stroke-width="5" transform="translate(150,0)">
+        <line y2="800"/>
+        
+        <line x1="-20"/>
+        <line x1="-20" y1="100" y2="100"/>
+        <line x1="-20" y1="200" y2="200"/>
+        <line x1="-20" y1="300" y2="300"/>
+        <line x1="-55" y1="400" y2="400"/>
+        <line x1="-20" y1="500" y2="500"/>
+        <line x1="-20" y1="600" y2="600"/>
+        <line x1="-20" y1="700" y2="700"/>
+        <line x1="-20" y1="800" y2="800"/>
+      </g>
+      
+      <g font-family="serif" font-size="12" text-anchor="end" transform="translate(115,4)">
+        <text><tspan>2,000,000,000</tspan><tspan x="0" dy="16">years ago</tspan></text>
+        <text y="100">1,500,000,000</text>
+        <text y="200">1,000,000,000</text>
+        <text y="300">500,000,000</text>
+        <text x="-30" y="400"><tspan dy="-6" font-size="14">‘Today’</tspan><tspan x="-30" dy="16">2000 <tspan font-size="11">A.D.</tspan></tspan></text>
+        <text y="500">500,000,000</text>
+        <text y="600">1,000,000,000</text>
+        <text y="700">1,500,000,000</text>
+        <text y="800"><tspan>2,000,000,000</tspan><tspan x="0" dy="16">years hence</tspan></text>
+      </g>
+      
+      <g font-family="serif" font-size="12" transform="translate(160,5)">
+        <text font-variant="small-caps">Planets formed</text>
+        <text y="276">‘Life’ appears on Earth</text>
+        <text y="360">First Reptiles</text>
+        <text y="392" font-variant="small-caps">First Mammals</text>
+        <text y="408">Second Men</text>
+        <text y="430">The Great Brains</text>
+        <text y="450">Fifth Men</text>
+        <text y="470"><tspan font-style="italic">Migration to</tspan> <tspan font-weight="bold">Venus</tspan></text>
+        <text y="486">Period of Eclipse</text>
+        <text y="550">Flying Men</text>
+        <text y="600">Migration to <tspan font-weight="bold">Neptune</tspan></text>
+        <use x="-5" y="600" xlink:href="#brace"/>
+        <text x="5" y="629">Period of Eclipse</text>
+        <use x="-5" y="650" xlink:href="#brace"/>
+        <text x="5" y="679">Period of Fluctuation</text>
+        <text y="710">Fifteenth Men</text>
+        <text y="750"><tspan font-weight="bold">Last Men</tspan> appear</text>
+        <text y="800" font-variant="small-caps" font-weight="bold">End of Man</text>
+      </g>
+      
+      <g font-family="serif" font-size="16" text-anchor="middle" transform="translate(400,100)">
+        <text font-size="24" font-weight="bold"><tspan x="0">Time Scale</tspan><tspan x="0" dy="24">4</tspan></text>
+        <text y="56"><tspan>One hundred times</tspan><tspan x="0" dy="20">the preceding scale.</tspan></text>
+        <text y="96"><tspan>Doubtless extremely</tspan><tspan x="0" dy="20">inaccurate.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

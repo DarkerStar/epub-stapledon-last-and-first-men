@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="700" height="1000" viewBox="0 0 700 1000">
+  <defs>
+  </defs>
+  
+  <g transform="translate(50,50)">
+    <g id="main">
+      <g stroke="black" stroke-linecap="square" stroke-width="5" transform="translate(360,110)">
+        <line y2="300"/>
+        
+        <line x1="-20"/>
+        <line x1="-20" y1="100" y2="100"/>
+        <line x1="-55" y1="200" y2="200"/>
+        <line x1="-20" y1="300" y2="300"/>
+      </g>
+      
+      <g font-family="serif" font-size="12" text-anchor="end" transform="translate(325,115)">
+        <text><tspan>10,000,000,000,000</tspan><tspan x="0" dy="16">years ago</tspan></text>
+        <text y="100">5,000,000,000,000</text>
+        <text x="-30" y="200"><tspan dy="-6" font-size="14">‘Today’</tspan><tspan x="-30" dy="16">2000 <tspan font-size="11">A.D.</tspan></tspan></text>
+        <text y="300"><tspan>5,000,000,000,000</tspan><tspan x="0" dy="16">years hence</tspan></text>
+      </g>
+      
+      <g font-family="serif" font-size="12" transform="translate(370,115)">
+        <text y="50">Formation of the <tspan font-weight="bold">Sun</tspan>.</text>
+        <text y="192">Planets formed;</text>
+        <text x="15" y="208">End of Man</text>
+        <text y="224"><tspan>Apart from accidents</tspan><tspan x="15" dy="16">Earth would still</tspan><tspan x="15" dy="16">have been habit-</tspan><tspan x="15" dy="16">able</tspan></text>
+      </g>
+      
+      <g font-family="serif" font-size="16" text-anchor="middle" transform="translate(350,0)">
+        <text font-size="24" font-weight="bold"><tspan x="0">Time Scale</tspan><tspan x="0" dy="24">5</tspan></text>
+        <text y="56"><tspan>Ten thousand times</tspan><tspan x="0" dy="16">scale 4.</tspan><tspan dx="10">Doubtless</tspan><tspan x="0" dy="16">even less accurate.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
