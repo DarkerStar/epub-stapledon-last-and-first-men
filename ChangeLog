@@ -1,0 +1,26 @@
+2015-XX-XX  Mark A. Gibbs  <indi.in.the.wired@gmail.com>
+     
+     * COPYING: New project copyright documentaion.
+     
+     * AUTHORS: New project contributor records.
+     
+     * THANKS: New project contributor records.
+     
+     * INSTALL: New installation guidelines.
+     
+     * README: New package information and documentation file.
+     
+     * README.md: New package information and documentation file.
+     
+     * ChangeLog: New project change log.
+     
+     * NEWS: New project history file.
+     
+     * Makefile: New makefile.
+     
+     * book.mk: New make configuration file.
+
+
+# Copyright 2015 Mark A. Gibbs
+# Copying and distribution of this file, with or without modification, are
+# permitted provided the copyright notice and this notice are preserved.

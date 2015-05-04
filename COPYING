@@ -1,0 +1,16 @@
+"Last and First Men" by Olaf Stapledon EPUB ebook licence
+=========================================================
+
+
+
+The original text of "Last and First Men", by Olaf Stapledon, was
+presented in 1931. It has been identified by Mark A. Gibbs as free of known
+copyright restrictions.
+
+The makefile `Makefile` is the
+[EPUB building makefile](https://github.com/DarkerStar/epub-build-makefile),
+which is released under the GPL v3. (See that project for licencing details.)
+
+All other content in this package, including edits to the original text, as well
+as the cover image and structural elements, except where otherwise noted, is
+released into the public domain.

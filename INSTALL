@@ -1,0 +1,10 @@
+"Last and First Men" by Olaf Stapledon EPUB ebook installation instructions
+===========================================================================
+
+
+The command `make`, executed in this project's root directory, will build a
+conforming EPUB 3 document (provided the necessary tools are present and
+functioning properly - see the README for details).
+
+No further facilities are provided for installation. If you want to add the
+ebook to your reading platform, you will have to so manually.
