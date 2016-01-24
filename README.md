@@ -2,7 +2,7 @@
 =================================================
 
 
-"Last and First Men" by Olaf Stapledon was written in 1931.
+"Last and First Men" by Olaf Stapledon was written in 1930.
 
 This project is an EPUB 3 ebook conversion of the original text. It uses the
 [EPUB building makefile](https://github.com/DarkerStar/epub-build-makefile)

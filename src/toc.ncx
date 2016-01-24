@@ -1,0 +1,453 @@
+<?xml version="1.0"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta name="dtb:uid"   content="urn:uuid:0532f980-c24b-11e4-8830-0800200c9a66"/>
+		<meta name="dtb:depth" content="1"/>
+	</head>
+	<docTitle>
+		<text>Last and First Men</text>
+	</docTitle>
+	<docAuthor>
+		<text>Olaf Stapledon</text>
+	</docAuthor>
+	<navMap>
+		<navPoint id="introduction" playOrder="1">
+			<navLabel>
+				<text>Introduction, by One of the Last Men</text>
+			</navLabel>
+			<content src="text/introduction.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter-01" playOrder="2">
+			<navLabel>
+				<text>Ⅰ. Balkan Europe</text>
+			</navLabel>
+			<content src="text/chapter-01.xhtml"/>
+			<navPoint id="subchapter-01-1" playOrder="3">
+				<navLabel>
+					<text>Ⅰ.–1. The European War and After</text>
+				</navLabel>
+				<content src="text/subchapter-01-1.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-01-2" playOrder="4">
+				<navLabel>
+					<text>Ⅰ.–2. The Anglo–French War</text>
+				</navLabel>
+				<content src="text/subchapter-01-2.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-01-3" playOrder="5">
+				<navLabel>
+					<text>Ⅰ.–3. Europe After the Anglo–French War</text>
+				</navLabel>
+				<content src="text/subchapter-01-3.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-01-4" playOrder="6">
+				<navLabel>
+					<text>Ⅰ.–4. The Russo–German War</text>
+				</navLabel>
+				<content src="text/subchapter-01-4.xhtml"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="chapter-02" playOrder="7">
+			<navLabel>
+				<text>ⅠⅠ. Europe’s Downfall</text>
+			</navLabel>
+			<content src="text/chapter-02.xhtml"/>
+			<navPoint id="subchapter-02-1" playOrder="8">
+				<navLabel>
+					<text>ⅠⅠ.–1. Europe and America</text>
+				</navLabel>
+				<content src="text/subchapter-02-1.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-02-2" playOrder="9">
+				<navLabel>
+					<text>ⅠⅠ.–2. The Origins of a Mystery</text>
+				</navLabel>
+				<content src="text/subchapter-02-2.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-02-3" playOrder="10">
+				<navLabel>
+					<text>ⅠⅠ.–3. Europe Murdered</text>
+				</navLabel>
+				<content src="text/subchapter-02-3.xhtml"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="chapter-03" playOrder="11">
+			<navLabel>
+				<text>ⅠⅠⅠ. America and China</text>
+			</navLabel>
+			<content src="text/chapter-03.xhtml"/>
+			<navPoint id="subchapter-03-1" playOrder="12">
+				<navLabel>
+					<text>ⅠⅠⅠ.–1. The Rivals</text>
+				</navLabel>
+				<content src="text/subchapter-03-1.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-03-2" playOrder="13">
+				<navLabel>
+					<text>ⅠⅠⅠ.–2. The Conflict</text>
+				</navLabel>
+				<content src="text/subchapter-03-2.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-03-3" playOrder="14">
+				<navLabel>
+					<text>ⅠⅠⅠ.–3. On an Island in the Pacific</text>
+				</navLabel>
+				<content src="text/subchapter-03-3.xhtml"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="chapter-04" playOrder="15">
+			<navLabel>
+				<text>ⅠⅤ. An Americanized Planet</text>
+			</navLabel>
+			<content src="text/chapter-04.xhtml"/>
+			<navPoint id="subchapter-04-1" playOrder="16">
+				<navLabel>
+					<text>ⅠⅤ.–1. The Foundation of the First World State</text>
+				</navLabel>
+				<content src="text/subchapter-04-1.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-04-2" playOrder="17">
+				<navLabel>
+					<text>ⅠⅤ.–2. The Dominance of Science</text>
+				</navLabel>
+				<content src="text/subchapter-04-2.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-04-3" playOrder="18">
+				<navLabel>
+					<text>ⅠⅤ.–3. Material Achievement</text>
+				</navLabel>
+				<content src="text/subchapter-04-3.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-04-4" playOrder="19">
+				<navLabel>
+					<text>ⅠⅤ.–4. The Culture of the First World State</text>
+				</navLabel>
+				<content src="text/subchapter-04-4.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-04-5" playOrder="20">
+				<navLabel>
+					<text>ⅠⅤ.–5. Downfall</text>
+				</navLabel>
+				<content src="text/subchapter-04-5.xhtml"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="chapter-05" playOrder="21">
+			<navLabel>
+				<text>Ⅴ. The Fall of the First Men</text>
+			</navLabel>
+			<content src="text/chapter-05.xhtml"/>
+			<navPoint id="subchapter-05-1" playOrder="22">
+				<navLabel>
+					<text>Ⅴ.–1. The First Dark Age</text>
+				</navLabel>
+				<content src="text/subchapter-05-1.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-05-2" playOrder="23">
+				<navLabel>
+					<text>Ⅴ.–2. The Rise of Patagonia</text>
+				</navLabel>
+				<content src="text/subchapter-05-2.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-05-3" playOrder="24">
+				<navLabel>
+					<text>Ⅴ.–3. The Cult of Youth</text>
+				</navLabel>
+				<content src="text/subchapter-05-3.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-05-4" playOrder="25">
+				<navLabel>
+					<text>Ⅴ.–4. The Catastrophe</text>
+				</navLabel>
+				<content src="text/subchapter-05-4.xhtml"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="chapter-06" playOrder="26">
+			<navLabel>
+				<text>ⅤⅠ. Transition</text>
+			</navLabel>
+			<content src="text/chapter-06.xhtml"/>
+			<navPoint id="subchapter-06-1" playOrder="27">
+				<navLabel>
+					<text>ⅤⅠ.–1. The First Men at Bay</text>
+				</navLabel>
+				<content src="text/subchapter-06-1.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-06-2" playOrder="28">
+				<navLabel>
+					<text>ⅤⅠ.–2. The Second Dark Age</text>
+				</navLabel>
+				<content src="text/subchapter-06-2.xhtml"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="chapter-07" playOrder="29">
+			<navLabel>
+				<text>ⅤⅠⅠ. The Rise of the Second Men</text>
+			</navLabel>
+			<content src="text/chapter-07.xhtml"/>
+			<navPoint id="subchapter-07-1" playOrder="30">
+				<navLabel>
+					<text>ⅤⅠⅠ.–1. The Appearance of a New Species</text>
+				</navLabel>
+				<content src="text/subchapter-07-1.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-07-2" playOrder="31">
+				<navLabel>
+					<text>ⅤⅠⅠ.–2. The Intercourse of Three Species</text>
+				</navLabel>
+				<content src="text/subchapter-07-2.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-07-3" playOrder="32">
+				<navLabel>
+					<text>ⅤⅠⅠ.–3. The Zenith of the Second Men</text>
+				</navLabel>
+				<content src="text/subchapter-07-3.xhtml"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="chapter-08" playOrder="33">
+			<navLabel>
+				<text>ⅤⅠⅠⅠ. The Martians</text>
+			</navLabel>
+			<content src="text/chapter-08.xhtml"/>
+			<navPoint id="subchapter-08-1" playOrder="34">
+				<navLabel>
+					<text>ⅤⅠⅠⅠ.–1. The First Martian Invasion</text>
+				</navLabel>
+				<content src="text/subchapter-08-1.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-08-2" playOrder="35">
+				<navLabel>
+					<text>ⅤⅠⅠⅠ.–2. Life on Mars</text>
+				</navLabel>
+				<content src="text/subchapter-08-2.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-08-3" playOrder="36">
+				<navLabel>
+					<text>ⅤⅠⅠⅠ.–3. The Martian Mind</text>
+				</navLabel>
+				<content src="text/subchapter-08-3.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-08-4" playOrder="37">
+				<navLabel>
+					<text>ⅤⅠⅠⅠ.–4. Delusions of the Martians</text>
+				</navLabel>
+				<content src="text/subchapter-08-4.xhtml"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="chapter-09" playOrder="38">
+			<navLabel>
+				<text>ⅠⅩ. Earth and Mars</text>
+			</navLabel>
+			<content src="text/chapter-09.xhtml"/>
+			<navPoint id="subchapter-09-1" playOrder="39">
+				<navLabel>
+					<text>ⅠⅩ.–1. The Second Men at Bay</text>
+				</navLabel>
+				<content src="text/subchapter-09-1.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-09-2" playOrder="40">
+				<navLabel>
+					<text>ⅠⅩ.–2. The Ruin of Two Worlds</text>
+				</navLabel>
+				<content src="text/subchapter-09-2.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-09-3" playOrder="41">
+				<navLabel>
+					<text>ⅠⅩ.–3. The Third Dark Age</text>
+				</navLabel>
+				<content src="text/subchapter-09-3.xhtml"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="chapter-10" playOrder="42">
+			<navLabel>
+				<text>Ⅹ. The Third Men in the Wilderness</text>
+			</navLabel>
+			<content src="text/chapter-10.xhtml"/>
+			<navPoint id="subchapter-10-1" playOrder="43">
+				<navLabel>
+					<text>Ⅹ.–1. The Third Human Species</text>
+				</navLabel>
+				<content src="text/subchapter-10-1.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-10-2" playOrder="44">
+				<navLabel>
+					<text>Ⅹ.–2. Digressions of the Third Men</text>
+				</navLabel>
+				<content src="text/subchapter-10-2.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-10-3" playOrder="45">
+				<navLabel>
+					<text>Ⅹ.–3. The Vital Art</text>
+				</navLabel>
+				<content src="text/subchapter-10-3.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-10-4" playOrder="46">
+				<navLabel>
+					<text>Ⅹ.–4. Conflicting Policies</text>
+				</navLabel>
+				<content src="text/subchapter-10-4.xhtml"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="chapter-11" playOrder="47">
+			<navLabel>
+				<text>ⅩⅠ. Man Remakes Himself</text>
+			</navLabel>
+			<content src="text/chapter-11.xhtml"/>
+			<navPoint id="subchapter-11-1" playOrder="48">
+				<navLabel>
+					<text>ⅩⅠ.–1. The First of the Great Brains</text>
+				</navLabel>
+				<content src="text/subchapter-11-1.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-11-2" playOrder="49">
+				<navLabel>
+					<text>ⅩⅠ.–2. The Tragedy of the Fourth Men</text>
+				</navLabel>
+				<content src="text/subchapter-11-2.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-11-3" playOrder="50">
+				<navLabel>
+					<text>ⅩⅠ.–3. The Fifth Men</text>
+				</navLabel>
+				<content src="text/subchapter-11-3.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-11-4" playOrder="51">
+				<navLabel>
+					<text>ⅩⅠ.–4. The Culture of the Fifth Men</text>
+				</navLabel>
+				<content src="text/subchapter-11-4.xhtml"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="chapter-12" playOrder="52">
+			<navLabel>
+				<text>ⅩⅠⅠ. The Culture of the Fifth Men</text>
+			</navLabel>
+			<content src="text/chapter-12.xhtml"/>
+			<navPoint id="subchapter-12-1" playOrder="53">
+				<navLabel>
+					<text>ⅩⅠⅠ.–1. The Culture of the Fifth Men</text>
+				</navLabel>
+				<content src="text/subchapter-12-1.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-12-2" playOrder="54">
+				<navLabel>
+					<text>ⅩⅠⅠ.–2. The Culture of the Fifth Men</text>
+				</navLabel>
+				<content src="text/subchapter-12-2.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-12-3" playOrder="55">
+				<navLabel>
+					<text>ⅩⅠⅠ.–3. Voyaging in Space</text>
+				</navLabel>
+				<content src="text/subchapter-12-3.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-12-4" playOrder="56">
+				<navLabel>
+					<text>ⅩⅠⅠ.–4. Preparing a New World</text>
+				</navLabel>
+				<content src="text/subchapter-12-4.xhtml"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="chapter-13" playOrder="57">
+			<navLabel>
+				<text>ⅩⅠⅠⅠ. Humanity on Venus</text>
+			</navLabel>
+			<content src="text/chapter-13.xhtml"/>
+			<navPoint id="subchapter-13-1" playOrder="58">
+				<navLabel>
+					<text>ⅩⅠⅠⅠ.–1. Taking Root Again</text>
+				</navLabel>
+				<content src="text/subchapter-13-1.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-13-2" playOrder="59">
+				<navLabel>
+					<text>ⅩⅠⅠⅠ.–2. The Flying Men</text>
+				</navLabel>
+				<content src="text/subchapter-13-2.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-13-3" playOrder="60">
+				<navLabel>
+					<text>ⅩⅠⅠⅠ.–3. A Minor Astronomical Event</text>
+				</navLabel>
+				<content src="text/subchapter-13-3.xhtml"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="chapter-14" playOrder="61">
+			<navLabel>
+				<text>ⅩⅠⅤ. Neptune</text>
+			</navLabel>
+			<content src="text/chapter-14.xhtml"/>
+			<navPoint id="subchapter-14-1" playOrder="62">
+				<navLabel>
+					<text>ⅩⅠⅤ.–1. Bird’s-Eye View</text>
+				</navLabel>
+				<content src="text/subchapter-14-1.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-14-2" playOrder="63">
+				<navLabel>
+					<text>ⅩⅠⅤ.–2. Da Capo</text>
+				</navLabel>
+				<content src="text/subchapter-14-2.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-14-3" playOrder="64">
+				<navLabel>
+					<text>ⅩⅠⅤ.–3. Slow Conquest</text>
+				</navLabel>
+				<content src="text/subchapter-14-3.xhtml"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="chapter-15" playOrder="65">
+			<navLabel>
+				<text>ⅩⅤ. The Last Men</text>
+			</navLabel>
+			<content src="text/chapter-15.xhtml"/>
+			<navPoint id="subchapter-15-1" playOrder="66">
+				<navLabel>
+					<text>ⅩⅤ.–1. Introduction to the Last Human Species</text>
+				</navLabel>
+				<content src="text/subchapter-15-1.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-15-2" playOrder="67">
+				<navLabel>
+					<text>ⅩⅤ.–2. Childhood and Maturity</text>
+				</navLabel>
+				<content src="text/subchapter-15-2.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-15-3" playOrder="68">
+				<navLabel>
+					<text>ⅩⅤ.–3. A Racial Awakening</text>
+				</navLabel>
+				<content src="text/subchapter-15-3.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-15-4" playOrder="69">
+				<navLabel>
+					<text>ⅩⅤ.–4. Cosmology</text>
+				</navLabel>
+				<content src="text/subchapter-15-4.xhtml"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="chapter-16" playOrder="70">
+			<navLabel>
+				<text>ⅩⅤⅠ. Cosmology</text>
+			</navLabel>
+			<content src="text/chapter-16.xhtml"/>
+			<navPoint id="subchapter-16-1" playOrder="71">
+				<navLabel>
+					<text>ⅩⅤⅠ.–1. Sentence of Death</text>
+				</navLabel>
+				<content src="text/subchapter-16-1.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-16-2" playOrder="72">
+				<navLabel>
+					<text>ⅩⅤⅠ.–2. Behaviour of the Condemned</text>
+				</navLabel>
+				<content src="text/subchapter-16-2.xhtml"/>
+			</navPoint>
+			<navPoint id="subchapter-16-3" playOrder="73">
+				<navLabel>
+					<text>ⅩⅤⅠ.–3. Epilogue</text>
+				</navLabel>
+				<content src="text/subchapter-16-3.xhtml"/>
+			</navPoint>
+		</navPoint>
+	</navMap>
+</ncx>

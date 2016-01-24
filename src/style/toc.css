@@ -1,0 +1,62 @@
+#contents > section > h1 {
+  font-style: italic;
+  font-weight: normal;
+  text-align: center;
+}
+
+#contents a {
+  color: black;
+  text-decoration: none;
+}
+
+#toc > h1 {
+  display: none;
+}
+
+#frontmatter-contents {
+  list-style: none;
+}
+
+#frontmatter-contents > span {
+  display: none;
+}
+
+#frontmatter-contents ol {
+  list-style: none;
+  font-variant: small-caps;
+}
+
+#main-contents {
+  list-style: none;
+}
+
+#main-contents > span {
+  display: block;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#main-contents > ol {
+  list-style: upper-roman;
+  font-variant: small-caps;
+}
+
+#main-contents > ol > li > ol {
+  font-variant: normal;
+}
+
+.no-small-caps {
+  font-variant: normal;
+}
+
+#loi > h1 {
+  font-style: italic;
+  font-weight: normal;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#loi ol {
+  font-variant: small-caps;
+  list-style: none;
+}
